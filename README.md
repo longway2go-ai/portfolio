@@ -21,3 +21,14 @@
 
 A cancer tumor can have thousands of genetic mutations, but not all of them contribute to tumor growth. Distinguishing driver mutations from passenger mutations is essential for personalized treatment. Traditionally, this task is performed manually by clinical pathologists who interpret each mutation by analyzing clinical literature—an extremely time-consuming and expertise-intensive process.This project leverages Natural Language Processing (NLP) , Machine Learning (ML) and Neural Networks techniques to automatically classify genetic mutations based on textual evidence from clinical literature.
 
+![Diagnosis](assets/DIAGNOSIS-CANCER.jpg)
+
+
+
+
+
+
+
+
+
+
