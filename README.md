@@ -1,7 +1,7 @@
 # Aspiring Data Scientist
 ## Skills
 - Programming and Tools: R, Python, SAS.
-- Data & ML Libraries: Pandas, NumPy, SciPy, XGBoost, TensorFlow, Keras, Huggingface.
+- Data & ML Libraries: Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Keras, Huggingface.
 - Visualisation: PowerBI, Matplotlib, Seaborn, Plotly.
 - Databases: MySQL, MongoDB.
 - Agentic Framework: LangGraph, smolagents, CrewAI, n8n.
